@@ -1,0 +1,5 @@
+﻿  Deform2D.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(127): warning C4005: “CALLBACK”: 宏重定义
+  e:\code\framesshow\framesshow\glut.h(34): note: 参见“CALLBACK”的前一个定义
+e:\code\framesshow\framesshow\deform2d.cpp(146): warning C4267: “初始化”: 从“size_t”转换到“size_tt”，可能丢失数据
+  framesShow.vcxproj -> E:\code\framesShow\x64\Debug\framesShow.exe
